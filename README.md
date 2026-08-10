@@ -1,1 +1,69 @@
-# nishant
+<!-- 🔷 BANNER IMAGE (TOP) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishantkk84/nishantkk84/main/banner.png" />
+</p>
+
+<!-- 🔷 NAME & TITLE -->
+<h1 align="center">Hi 👋, I'm Nishant Khobragade</h1>
+<h3 align="center">🚀 AI Engineer | 📊 Data Science Analyst | 🤖 Computer Vision Developer</h3>
+
+---
+
+<!-- 🔷 ABOUT ME -->
+## 🧑‍💻 About Me
+- 🎓 Mechatronics Engineer  
+- 📊 Data Science / Analyst  
+- 🐍 Python Developer  
+- 🤖 Machine Learning & Generative AI  
+- 👁️ OpenCV & Computer Vision  
+- 🌏 Japanese Bilingual  
+- 📍 Pune, Maharashtra, India  
+
+---
+
+<!-- 🔷 SKILLS -->
+## 🧰 Languages & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pandas,numpy,mysql,git,linux,php" />
+</p>
+
+---
+
+<!-- 🔷 TECH STACK -->
+## 🚀 Tech Stack
+- Python | SQL | Power BI  
+- Pandas | NumPy  
+- Machine Learning | Generative AI  
+- OpenCV (Computer Vision)  
+
+---
+
+<!-- 🔷 SOCIAL -->
+## 🌐 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/YOUR_LINK"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://github.com/nishantkk84"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+<!-- 🔷 GITHUB STATS -->
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nishantkk84&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+<!-- 🔷 STREAK -->
+## 🔥 Streak Stats
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=nishantkk84&theme=tokyonight" />
+</p>
+
+---
+
+<!-- 🔷 FUN -->
+## ⚡ Fun Fact
+💡 I build AI systems that interact with the real world using Computer Vision
