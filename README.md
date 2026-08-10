@@ -1,6 +1,6 @@
 <!-- 🔷 BANNER IMAGE (TOP) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nishantkk84/nishantkk84/main/banner.png" />
+ https://raw.githubusercontent.com/nishantkk84/nishant/main/Nishant_github.png
 </p>
 
 <!-- 🔷 NAME & TITLE -->
